@@ -12,7 +12,7 @@
  - ref [Vedio](https://channel9.msdn.com/Blogs/dotnet/Get-started-with-VS-Code-using-CSharp-and-NET-Core)
  ----------
  **If you'd like to get started with a simple "Hello World" program on .NET Core, follow the steps below:**
- `
+ 
   1. Initialize a C# project:
  - Open the command prompt (or terminal).
  - Navigate to the folder where you'd like to create the C# project.
@@ -27,10 +27,10 @@
  - There will be a notification that appears at the top of the window asking if you'd like to add the required assets to build and debug your project. Select Yes.
  
  3. Run the "Hello World" program by typing dotnet run.   
- `
+ 
 
  **Important command for create and run**
- `
+ 
   ####Let's initialize a sample Hello World application!
 
   ```command
@@ -38,16 +38,16 @@
   - cd hwapp
   - dotnet new  
   ```
- `
+ 
 ----------
 
-`
+
   ####Run the app
   ```command
   - dotnet restore
   - dotnet run
   ```
-` 
+
  
 
  These are Important point or steps we must follow.
