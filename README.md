@@ -31,7 +31,7 @@
 
  **Important command for create and run**
  
-  ####Let's initialize a sample Hello World application!
+  #### Let's initialize a sample Hello World application!
 
   ```command
   - mkdir hwapp
@@ -42,7 +42,7 @@
 ----------
 
 
-  ####Run the app
+  #### Run the app
   ```command
   - dotnet restore
   - dotnet run
