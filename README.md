@@ -13,7 +13,7 @@
  ----------
  **If you'd like to get started with a simple "Hello World" program on .NET Core, follow the steps below:**
  `
- 1. Initialize a C# project:
+  1. Initialize a C# project:
  - Open the command prompt (or terminal).
  - Navigate to the folder where you'd like to create the C# project.
  - Type dotnet new.
@@ -26,9 +26,7 @@
  - This file contains information about your project's dependencies to make subsequent restores quicker.
  - There will be a notification that appears at the top of the window asking if you'd like to add the required assets to build and debug your project. Select Yes.
  
- 3. Run the "Hello World" program by typing dotnet run.
-  
- 
+ 3. Run the "Hello World" program by typing dotnet run.   
  `
 
  **Important command for create and run**
