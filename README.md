@@ -41,8 +41,7 @@
  
 ----------
 
-
-  #### Run the app
+## Run the app
   ```command
   - dotnet restore
   - dotnet run
