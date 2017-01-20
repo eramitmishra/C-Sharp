@@ -41,7 +41,7 @@
  
 ----------
 
-## Run the app
+#### Run the app
   ```command
   - dotnet restore
   - dotnet run
@@ -49,6 +49,6 @@
 
  
 
- These are Important point or steps we must follow.
+ > These are Important point or steps we must follow.
 
- Happy and enjoy Coding.......
+ **Happy and enjoy Coding.......**

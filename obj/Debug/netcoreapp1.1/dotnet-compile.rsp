@@ -1,5 +1,5 @@
---temp-output:d:\github\C-Shrap\obj\Debug\netcoreapp1.1\
---out:d:\github\C-Shrap\bin\Debug\netcoreapp1.1\C-Shrap.dll
+--temp-output:D:\github\C-Shrap\obj\Debug\netcoreapp1.1\
+--out:D:\github\C-Shrap\bin\Debug\netcoreapp1.1\C-Shrap.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_1
@@ -87,4 +87,5 @@
 --reference:C:\Users\carlton3\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\carlton3\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\carlton3\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
-d:\github\C-Shrap\Program.cs
+D:\github\C-Shrap\Program.cs
+D:\github\C-Shrap\Program1.cs
